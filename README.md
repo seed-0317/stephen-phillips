@@ -2,12 +2,13 @@
 
 :fire: :dragon:
 
-I like richmond:
+I would rather ski or snowboard:
 
-- [x] Yes
-- [ ] No
+- [x] Snowboard
+- [ ] Ski
 
-![Image of me]
-(https://www.google.com/search?q=stephen+phillips&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiD4O70mInTAhVKwlQKHVEtAWwQ_AUIBygC&biw=807&bih=890#tbm=isch&q=sbphillips19&*&imgrc=X6n7Wr0-ZKt8ZM:)
+
+![tahoe](https://cloud.githubusercontent.com/assets/25047763/24635031/0ee97600-189f-11e7-8f8b-935fa143f737.jpg)
+
 
 
